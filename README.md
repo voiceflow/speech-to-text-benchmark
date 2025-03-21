@@ -27,3 +27,14 @@ Use `bun` to run the backend server with typescript. Bun is required.
 ```
 npm run start
 ```
+
+### References
+#### OpenAI
+* https://platform.openai.com/docs/guides/speech-to-text#streaming
+* https://platform.openai.com/docs/guides/realtime-transcription#handling-transcriptions
+* https://platform.openai.com/docs/guides/realtime?use-case=transcription#connect-with-websockets
+
+#### Deepgram
+* https://developers.deepgram.com/docs/live-streaming-audio
+* https://developers.deepgram.com/reference/speech-to-text-api/listen-streaming
+* https://developers.deepgram.com/docs/understanding-end-of-speech-detection
